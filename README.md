@@ -11,7 +11,20 @@ A modern Compose-based Android app for displaying Hanuman Chalisa in Hindi and H
 
 ## Screenshots
 
-![Home Screen](path/to/screenshot.png) *(Replace with actual path to a screenshot)*
+<!-- Images displayed side by side -->
+<div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="images/image-1.png" alt="Home Screen" width="400" height="600">
+    <img src="images/image-2.png" alt="Second Screenshot" width="400" height="600">
+</div>
+
+## Video Demo
+
+<!-- Embed a video file from the images folder -->
+<video width="600" controls>
+    <source src="images/video.mp4" type="video/mp4">
+    
+</video>
+
 
 ## Getting Started
 
