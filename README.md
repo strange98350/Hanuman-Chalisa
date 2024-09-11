@@ -1,10 +1,10 @@
 # Hanuman Chalisa App
 
-A modern Compose-based Android app for displaying Hanuman Chalisa in Hindi and Hindglish. This app features a toggle button to switch between the Hindi and Hindglish versions and a simple navigation system to browse through different Chaupais.
+A modern Compose-based Android app for displaying Hanuman Chalisa in Hindi and Hinglish. This app features a toggle button to switch between the Hindi and Hinglish versions and a simple navigation system to browse through different Chaupais.
 
 ## Features
 
-- **Toggle between Hindi and Hindglish:** Switch between the original Hindi text and its Hindglish transliteration.
+- **Toggle between Hindi and Hinglish:** Switch between the original Hindi text and its Hindglish transliteration.
 - **View Hanuman Chalisa:** Display Hanuman Chalisa with navigation controls.
 - **User-friendly Navigation:** Navigate through the Chaupais with 'Next' and 'Previous' buttons.
 - **Centered Image and Text:** Visual layout with a centered image and text.
