@@ -111,7 +111,7 @@ fun ToggleHindglishButton(isHindglish: Boolean, onClick: () -> Unit) {
     Button(
         onClick = onClick,
         modifier = Modifier
-            .padding(horizontal = 105.dp)
+            .padding(horizontal = 95.dp)
             .fillMaxWidth()
     ) {
         Text(text = if (isHindglish) "Switch to Hindi" else "Switch to Hindglish")
@@ -165,7 +165,7 @@ private fun NavigationRow(
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(bottom = 255.dp),
+            .padding(bottom = 55.dp),
         horizontalArrangement = Arrangement.SpaceEvenly
     ) {
         Button(
