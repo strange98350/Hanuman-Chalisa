@@ -20,11 +20,9 @@ A modern Compose-based Android app for displaying Hanuman Chalisa in Hindi and H
 ## Video Demo
 
 <!-- Embed a video file from the images folder -->
-<video width="600" controls>
-    <source src="images/video.mp4" type="video/mp4">
-    
-</video>
-
+<p align="center">
+    <img src="images/image-3.gif" alt="Animated Demo" width="400">
+</p>
 
 ## Getting Started
 
