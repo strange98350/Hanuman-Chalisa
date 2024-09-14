@@ -13,14 +13,14 @@ The Hanuman Chalisa App provides a seamless experience for reading and reciting 
 <!-- Images displayed side by side -->
 <div style="display: flex; gap: 20px; justify-content: center;">
     <img src="images/image-1.png" alt="Home Screen" width="400" height="600">
-    <img src="images/image-2.png" alt="Second Screenshot" width="400" height="600">
+    <img src="images/image-3.png" alt="Second Screenshot" width="400" height="600">
 </div>
 
 ## Video Demo
 
 <!-- Embed a video file from the images folder -->
 <p align="center">
-    <img src="images/image-3.gif" alt="Animated Demo" width="400">
+    <img src="images/image-5.gif" alt="Animated Demo" width="400">
 </p>
 
 ## Getting Started
