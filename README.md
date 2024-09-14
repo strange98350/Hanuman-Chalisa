@@ -1,6 +1,6 @@
 # Mantra App
 
-The /Mantra App provides a seamless experience for reading and reciting the Hanuman Chalisa and Gayatri Mantra. It features a user-friendly interface with options to switch between Hindi and Hindglish text and includes navigation to different sections of the app.
+The Mantra App provides a seamless experience for reading and reciting the Hanuman Chalisa and Gayatri Mantra. It features a user-friendly interface with options to switch between Hindi and Hindglish text and includes navigation to different sections of the app.
 
 ## Features
 
