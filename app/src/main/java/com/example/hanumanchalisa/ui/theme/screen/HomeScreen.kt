@@ -165,7 +165,7 @@ private fun NavigationRow(
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(bottom = 55.dp),
+            .padding(bottom = 84.dp),
         horizontalArrangement = Arrangement.SpaceEvenly
     ) {
         Button(
