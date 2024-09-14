@@ -46,7 +46,9 @@ fun MainScreen() {
     val coroutineScope = rememberCoroutineScope()
 
     Scaffold(
-        modifier = Modifier.fillMaxSize(),
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(bottom = 56.dp),
         bottomBar = {
             // Adding padding to move the BottomNavigation slightly above
             Box(modifier = Modifier.padding(bottom = 20.dp)) {
