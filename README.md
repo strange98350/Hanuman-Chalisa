@@ -62,8 +62,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE)
  file for details.
 
 ### Acknowledgments
--Jetpack Compose for modern Android UI toolkit.
--Coil for image loading.
--Material Design for UI components.
+- Jetpack Compose for modern Android UI toolkit.
+- Coil for image loading.
+- Material Design for UI components.
 
 **For any questions or support, please contact chandandutta168@gmail.com.**
