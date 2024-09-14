@@ -1,13 +1,12 @@
 # Hanuman Chalisa App
 
-A modern Compose-based Android app for displaying Hanuman Chalisa in Hindi and Hinglish. This app features a toggle button to switch between the Hindi and Hinglish versions and a simple navigation system to browse through different Chaupais.
+The Hanuman Chalisa App provides a seamless experience for reading and reciting the Hanuman Chalisa and Gayatri Mantra. It features a user-friendly interface with options to switch between Hindi and Hindglish text and includes navigation to different sections of the app.
 
 ## Features
 
-- **Toggle between Hindi and Hinglish:** Switch between the original Hindi text and its Hindglish transliteration.
-- **View Hanuman Chalisa:** Display Hanuman Chalisa with navigation controls.
-- **User-friendly Navigation:** Navigate through the Chaupais with 'Next' and 'Previous' buttons.
-- **Centered Image and Text:** Visual layout with a centered image and text.
+- **Hanuman Chalisa: Read the Hanuman Chalisa in Hindi and Hindglish.**
+- **Gayatri Mantra: Recite the Gayatri Mantra with a dedicated screen.**
+- **Navigation: Easily switch between the Hanuman Chalisa and Gayatri Mantra using a bottom navigation bar.**
 
 ## Screenshots
 
@@ -43,7 +42,23 @@ A modern Compose-based Android app for displaying Hanuman Chalisa in Hindi and H
 - Launch Android Studio.
 - Select "Open an existing Android Studio project" and navigate to the cloned repository.
 
-3. **Build and Run:**
+3. Add Dependencies
+
+**Ensure that you have the required dependencies in your build.gradle file:**
+
+```
+dependencies {
+    implementation "androidx.compose.ui:ui:1.5.0"
+    implementation "androidx.compose.material3:material3:1.2.0"
+    implementation "androidx.navigation:navigation-compose:2.6.0"
+    implementation "io.coil-kt:coil-compose:2.4.0"
+}
+```
+
+**Sync the Project**
+**Click "Sync Now" in Android Studio to ensure all dependencies are downloaded.**
+  
+4. **Build and Run:**
    
 - Click on the "Build" menu and select "Rebuild Project".
 - Click on the "Run" button to launch the app on an emulator or connected device.
